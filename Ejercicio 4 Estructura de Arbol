@@ -1,0 +1,44 @@
+Menú de desayunos
+├── Discos
+│   ├── Still got the blues
+│   │   ├── Título: Still got the blues
+│   │   ├── Artista: Gary Moore
+│   │   ├── País: UK
+│   │   ├── Compañía: Virgin Records
+│   │   └── Precio: 10.20
+│   │   └── Año de publicación: 1990
+│   ├── One night only
+│   │   ├── Título: One night only
+│   │   ├── Artista: Bee Gees
+│   │   ├── País: UK
+│   │   ├── Compañía: Polydor
+│   │   └── Precio: 10.90
+│   │   └── Año de publicación: 1998
+│   ├── When a man loves a women
+│   │   ├── Título: When a man loves a women
+│   │   ├── Artista: Pency Sledge
+│   │   ├── País: USA
+│   │   ├── Compañía: Atlantic
+│   │   └── Precio: 8.70
+│   │   └── Año de publicación: 1987
+│   ├── Big Willie Style
+│   │   ├── Título: Big Willie Style
+│   │   ├── Artista: Will Smith
+│   │   ├── País: USA
+│   │   ├── Compañía: Columbia
+│   │   └── Precio: 9.90
+│   │   └── Año de publicación: 1997
+│   ├── La cancion de Juan Perro
+│   │   ├── Título: La cancion de Juan Perro
+│   │   ├── Artista: Radio Futura
+│   │   ├── País: España
+│   │   ├── Compañía: Sony Music-Ariola
+│   │   └── Precio: 9.90
+│   │   └── Año de publicación: 1987
+│   └── The dock of the bay
+│       ├── Título: The dock of the bay
+│       ├── Artista: Otis Redding
+│       ├── País: USA
+│       ├── Compañía: Atlantic
+│       └── Precio: 7.90
+│       └── Año de publicación: 1987
