@@ -1,0 +1,11 @@
+<!DOCTYPE menu-desayunos [
+        <!ELEMENT menu-desayunos (gofres-belgas | tostada-francesa | desayuno-de-la-casa)>
+        <!ELEMENT gofres-belgas (gofres-belgas | gofres-belgas-fresa | gofres-belgas-frutos-del-bosque)>
+        <!ELEMENT gofres-belgas (precio, descripcion)>
+        <!ELEMENT gofres-belgas-fresa (precio, descripcion)>
+        <!ELEMENT gofres-belgas-frutos-del-bosque (precio, descripcion)>
+        <!ELEMENT tostada-francesa (precio, descripcion)>
+        <!ELEMENT desayuno-de-la-casa (precio, descripcion)>
+        <!ELEMENT precio (#PCDATA)>
+        <!ELEMENT descripcion (#PCDATA)>
+        ]>
