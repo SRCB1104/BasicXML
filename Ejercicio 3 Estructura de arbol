@@ -1,0 +1,17 @@
+Menú de desayunos
+├── Gofres belgas
+│   ├── Gofres belgas
+│   │   ├── Precio: 5.95 EUROS
+│   │   └── Descripción: Dos de nuestros famosos Gofres belgas con abundante sirope (650 calorías)
+│   ├── Gofres belgas con fresa
+│   │   ├── Precio: 7.95 EUROS
+│   │   └── Descripción: Ligeros Gofres belgas cubiertos de fresas y nata montada (900 calorías)
+│   └── Gofres belgas con frutos del bosque
+│       ├── Precio: 8.95 EUROS
+│       └── Descripción: Ligeros gofres belgas cubiertos con frutos del bosque y nata montada (900 calorías)
+└── Tostada francesa
+├── Precio: 4.50 EUROS
+└── Descripción: Dos gruesas rebanadas de nuestro pan francés casero (600 calorías)
+└── Desayuno de la casa
+├── Precio: 6.95 EUROS
+└── Descripción: Dos huevos, con bacon o salchicha, tostada y patatas fritas (950 calorías)
