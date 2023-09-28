@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<documento>
+    <p>Mi Primer
+        <destacar importancia="1"> documentoXML </destacar>
+    </p>
+    <p>Comienza con la etiqueta &lt;documento&gt;</p>
+    <p>A continuacion colocamos un elemento sin contenido</p>
+    <imagen fichero="imagen.gif"></imagen>
+</documento>
+<!--
+    El documento no estaba bien formado. Se le corrigio lo siguiente
+    1.-Se le agregaron comillas dobles al valor de la importancia
+    en la etiqueta "destacar".
+    2.-El segundo parrafo tenia un ] en lugar de un >.
+    3,-En el segundo parrafo se trata de poner <documento> como texto
+    y no como etiqueta y la forma correcta de hacerlo es representado
+    los valores con los codigos &lt; y &gt;.
+    4.- A la etiqueta <Imagen> le faltaba el cierre de la etiqueta.
+-->

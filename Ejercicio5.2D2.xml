@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<libros>
+    <libro id="quijote">
+        <titulo>El Quijote</titulo>
+        <autor nombre="cervantes">
+        <descripcion>Es el mejor libro de cervantes.</descripcion>
+        </autor>
+    </libro>
+</libros>
+
+<!--
+    El documento no estaba bien formado, se corrigieron los siguientes errores
+    1.-El nombre del autor se escribe 2 veces en la etiqueta autor
+    2.-En la etiqueta autor le faltaban comillas dobles al nombre
+    3.-Le faltaba la etiqueta de cierre a la etiqueta de autor
+    4.-En la informacion de la etiqueta descripcion habia una < en el texto,
+    lo que provocaba un error de sintaxis
+    5.-En la eiqueta de cierre de libro estaba un ] en lugar de un >
+    6.-La etiqueta de cierre de libros no coincidia con la de apertura, ya que
+    la etiqueta de apertura no comenzaba con mayuscula
+-->
