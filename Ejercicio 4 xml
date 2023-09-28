@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artistas>
+  <artista nombre="Gary Moore">
+    <discos>
+      <disco titulo="Still got the blues" pais="UK" compania="Virgin Records" precio="10.20" ano-de-publicacion="1990"/>
+      <disco titulo="One night only" pais="UK" compania="Polydor" precio="10.90" ano-de-publicacion="1998"/>
+    </discos>
+  </artista>
+  <artista nombre="Bee Gees">
+    <discos>
+      <disco titulo="One night only" pais="UK" compania="Polydor" precio="10.90" ano-de-publicacion="1998"/>
+    </discos>
+  </artista>
+  <artista nombre="Pency Sledge">
+    <discos>
+      <disco titulo="When a man loves a women" pais="USA" compania="Atlantic" precio="8.70" ano-de-publicacion="1987"/>
+    </discos>
+  </artista>
+  <artista nombre="Will Smith">
+    <discos>
+      <disco titulo="Big Willie Style" pais="USA" compania="Columbia" precio="9.90" ano-de-publicacion="1997"/>
+    </discos>
+  </artista>
+  <artista nombre="Radio Futura">
+    <discos>
+      <disco titulo="La cancion de Juan Perro" pais="España" compania="Sony Music-Ariola" precio="9.90" ano-de-publicacion="1987"/>
+    </discos>
+  </artista>
+  <artista nombre="Otis Redding">
+    <discos>
+      <disco titulo="The dock of the bay" pais="USA" compania="Atlantic" precio="7.90" ano-de-publicacion="1987"/>
+    </discos>
+  </artista>
+</artistas>
